@@ -6,7 +6,7 @@ Invocation (Arcane)
 
 Beseeching (Divine)
 - Ideological alignment
-	- Profess/Prosltize
+	- Profess/Proselytize
 - Command list (non-specific)
 - At will (constrained)
 - Cost: Icon, Favor
@@ -24,6 +24,7 @@ Summoning
 - Cost: Time, Resources, Moral
 
 Archetypes of casting
+- Weaponized Possession (Incarnation)
 - Combinatoric
 - Command list
 - Prepared Item use
